@@ -1,0 +1,1 @@
+START /MAX java -jar out\artifacts\HideMe_jar\HideMe.jar
